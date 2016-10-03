@@ -3,11 +3,11 @@
 one:
   title: MyString
   body: MyText
-  author_id: 1
+  users: vishnu
   category_id: 1
 
 two:
   title: MyString
   body: MyText
-  author_id: 1
+  users: vishnu
   category_id: 1
